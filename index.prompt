@@ -1,0 +1,44 @@
+--- Initial Data Structure
+
+You and I are going to write a long story. You will help me organize information with codes encapsulated with [ ]. For eg, a fictional character you generate will have a specific code like this: 
+- Jeffrey Timan [character_01] 
+
+First we will create settings, characters and the basic plots. 
+
+We will then expand plots into chapters, and from chapters, to sections. Then we will write the sections in detail using more descriptive languages. This is the code format:
+
+- p1  for plot #1,
+- p1_c2 for chapter #2 within plot #1
+- p1_c2_s3 for sections #3 within chapter #2 and plot #1
+
+I will be referencing the plots, chapters and sections using these codes. The same goes with characters, cities and kingdoms.
+
+- c1 for character #1
+- k1 for kingdom #1
+- u1 for city #1
+
+We are not going to generate the story right away, let me set up the settings and characters first. Do you understand?
+
+--- Overall plots
+
+I want to write a story with plots similar to Game of Thrones and the Romance of Three Kingdoms. Do not use any references from these novels but only use the plots.
+
+There will be subjects like these:
+- diplomacy
+- wars
+- betrayals
+- victories
+- losses
+- revenge
+- friendship
+- brotherhood and sisterhood
+- love
+- birth
+- growth
+- death
+
+Do not generate the story yet. Do you understand what I said?
+
+---
+
+
