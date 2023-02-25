@@ -1,4 +1,4 @@
-# The Saga of Arathia - Five Kingdoms
+# The Arathia Saga - Five Kingdoms
 
 - written with ChatGPT
 
