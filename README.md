@@ -12,7 +12,7 @@ _written with ChatGPT_
 - The generated contents are in `/story` folder. 
 
 
-# The Prompt Design
+### The Prompt Design
 The prompts are multi-step and grouped by layers.
 
 1. Data Structure Layer: Define how we are setting up references and information structure such as characters, plot, chapter and sections.
