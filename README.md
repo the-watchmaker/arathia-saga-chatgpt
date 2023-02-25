@@ -1,4 +1,4 @@
-![The Arathia Saga poster](https://user-images.githubusercontent.com/4682613/221371974-a81510ce-8b1a-4f1b-9b29-e2e8f6b19ce2.png | width=420)
+![The Arathia Saga poster](https://user-images.githubusercontent.com/4682613/221371974-a81510ce-8b1a-4f1b-9b29-e2e8f6b19ce2.png)
 
 Image generated with DALL-E 2 with prompt[^1]
 
