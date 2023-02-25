@@ -1,4 +1,5 @@
-![DALL·E 2023-02-25 09 50 29 - Five kingdoms fighting over the land of Arathia after the death of the emperor Dashka  Five kingdoms, five armies, five cultures, five landscapes   Th](https://user-images.githubusercontent.com/4682613/221371974-a81510ce-8b1a-4f1b-9b29-e2e8f6b19ce2.png | 420)
+![The Arathia Saga poster](https://user-images.githubusercontent.com/4682613/221371974-a81510ce-8b1a-4f1b-9b29-e2e8f6b19ce2.png | 420)
+
 Image generated with DALL-E 2 with prompt[^1]
 
 # The Arathia Saga - Five Kingdoms
