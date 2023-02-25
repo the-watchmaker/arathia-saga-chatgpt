@@ -54,9 +54,9 @@ We are going to generate 5 fictional cilizations and its kingdoms based on the r
 
 For the names of places, people and all, construct them by:
 
-1. Exctract phonetics of the language
+1. Extract phonetics of the language
 2. Extract the syntax of the language
-3. Generate similar words by combining the rules of 1 and 2.
+3. Generate similar words by combining the rule #1 and #2 above.
 
 this rule above is called [language_rule.]
 
