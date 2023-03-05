@@ -7,9 +7,9 @@ Image generated with DALL-E 2 with prompt[^1]
 _written with ChatGPT_
 
 ## How to navigate
-- Prompts are all in markdown files at the moment. [name].prompt.md
-- The generated settings are in `/settings` folder.
-- The generated contents are in `/story` folder. 
+- All in markdown at the moment. prompt.md contains main prompts used
+- The generated settings are in `/settings` folder. Where it contains results and "connection" prompts.
+- The generated contents are in `/story` where you can read a finished story
 
 
 
