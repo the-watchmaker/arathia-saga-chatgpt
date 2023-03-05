@@ -5,7 +5,7 @@ The delegates from the kingdoms attending the funeral of the late Arathian Emper
 
 # The Arathia Saga - Five Kingdoms
 
-_written with ChatGPT_Cancel changes
+_written with ChatGPT_
 
 ## How to navigate
 - All in markdown at the moment. prompt.md contains main prompts used
