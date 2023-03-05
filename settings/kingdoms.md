@@ -1,3 +1,5 @@
+## Output
+
 | Kingdom Name | Word for "King" | Real World Reference |
 |--------------|----------------|---------------------|
 | k_1 Varelea | Narse | Persia |
@@ -6,6 +8,13 @@
 | k_4 Sylvaria | Faelor | Norse mythology |
 | k_5 Oceania | Rikan | Pacific Island cultures |
 
+
+---
+
+
+## Promt to regenerate
+
+Ok, here are the kingdoms you generated in another session please save this as setting for Kingdoms.
 
 - k_1 Varelea
   - Word for "King": Narse
