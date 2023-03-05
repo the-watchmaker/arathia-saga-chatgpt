@@ -23,6 +23,8 @@ The prompts are multi-step and grouped by layers.
 Each layers are then oraganized into different ChatGPT sessions and connected using "connection" prompts. This is due to an issue where the accuracy deteriorate in a single session. For example, plots can affect tiny description of a chapter even though you are not supposed to reveal it at that time.
 
 
+## Milestone
+- To create the first iteration of the entire story (500 pages) within an hour.
 
 
 ## Technical Challenges
