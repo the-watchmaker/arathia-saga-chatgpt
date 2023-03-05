@@ -5,7 +5,7 @@ The delegates from the kingdoms attending the funeral of the late Arathian Emper
 
 # The Arathia Saga - Five Kingdoms
 
-_written with ChatGPT_
+_written with ChatGPT_Cancel changes
 
 ## How to navigate
 - All in markdown at the moment. prompt.md contains main prompts used
@@ -21,7 +21,7 @@ The prompts are multi-step and grouped by layers.
 2. Setting Layer: Create settings where the story takes place. The setting is created according to the Data Structure Layer.
 3. Story Layer: The actual story generated.
 
-Each layers are then oraganized into different ChatGPT sessions and connected using "connection" prompts. This is due to an issue where the accuracy deteriorate in a single session. For example, plots can affect tiny description of a chapter even though you are not supposed to reveal it at that time.
+Each layers are then oraganized into different ChatGPT sessions and connected using "connection" prompts. This is due to an issue where the ChatGPT accuracy deteriorates in a single session over time. For example, plots can pollute tiny description of a chapter even though you are not supposed to reveal it at that time.
 
 
 ## Milestone
