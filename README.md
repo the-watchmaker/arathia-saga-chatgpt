@@ -26,6 +26,7 @@ Each layers are then oraganized into different ChatGPT sessions and connected us
 
 ## Milestone
 - To create the first iteration of the entire story (500 pages) within an hour.
+- To generate all the images for the characters and illustration for all the chapters using DallE2
 
 
 ## Technical Challenges
