@@ -1,6 +1,4 @@
-
-
-### Initial Data Structure
+## Initial Data Structure
 
 
 You and I are going to write a long story. You will help me organize information with codes encapsulated with [ ]. For eg, a fictional character you generate will have a specific code like this: 
@@ -28,9 +26,10 @@ When I type something like "/[code name]" you will recite me back the informatio
 We are not going to generate the story right away, let me set up the settings and characters first. Do you understand?
 
 
+---
 
 
-### Overall plots
+## Overall plots
 
 
 
@@ -53,9 +52,10 @@ There will be subjects like these:
 Do not generate the story yet. Do you understand what I said?
 
 
+---
 
 
-### Kingdoms
+## Kingdoms
 
 
 We are going to generate 5 fictional cilizations and its kingdoms based on the real world. But never use the exact names of the real world. 
@@ -76,8 +76,10 @@ Now create 5 Kingdoms in a table, with columns:
 Do not forget to add code for kingdom in k_1, k_2 format before the generated kingdom's name, I mentioned above when you write the name of the kingdoms.
 
 
+---
 
-#### Confirm Kingdoms
+
+## Confirm Kingdoms
 
 
 Tell me the information you've got for k_1, k_2, k_3, k_4 and k_5
