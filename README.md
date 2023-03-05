@@ -20,18 +20,21 @@ The prompts are multi-step and grouped by layers.
 2. Setting Layer: Create settings where the story takes place. The setting is created according to the Data Structure Layer.
 3. Story Layer: The actual story generated.
 
+---
 
-### Technical Challenges
+## Technical Challenges
 
-#### ChatGPT's time awareness
+### 1. ChatGPT's time awareness
 
 To create forshadowing and several events hapenning in parallel require ChatGPT to understand the timeline. Timeline must be coded, and also each events must be associated with those codes. The vast association using the code often creates errors in stories.
 
 
-### The "connection" prompts create inconsistency between the connected sessions 
+### 2. The "connection" prompts create inconsistency between the connected sessions 
 
 The accuracy of the story decreases in a single session with the current version ChatGPT (Mar 2023.) So you need to re-feed the "connection" prompts into a new session. Currently the "connection" prompts" are creating inconsistency between sessions. So, you need to strategically place each sessions. Top-down structure is aa good example. You can create 3 separate sessions: Plots -> chapters -> Parts. 
 
+
+---
 
 ## TODO
 
@@ -39,6 +42,6 @@ The accuracy of the story decreases in a single session with the current version
 
 API might yield different result. So it's worth to give a shot. Creating an assisted UI can be an option. Maybe using Next.js to quickly create one?
 
-
+---
 
 [^1]: Prompt for the image: "Five kingdoms fighting over the land of Arathia after the death of the emperor Dashka. Five kingdoms, five armies, five cultures, five landscapes.  The delegates from the kingdoms attending the funeral of the late Emperor. Set in industrial era, in Final Fantasy 5 art style. science fiction. I need a poster without any texts."
