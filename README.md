@@ -26,7 +26,8 @@ The prompts are multi-step and grouped by layers.
 
 ### 1. ChatGPT's time awareness
 
-To create forshadowing and several events hapenning in parallel require ChatGPT to understand the timeline. Timeline must be coded, and also each events must be associated with those codes. The vast association using the code often creates errors in stories.
+To create forshadowing and several events hapenning in parallel require ChatGPT to understand a timeline. A timeline must be coded to be referred by other data such as events. The vast association using a timeline code often creates inconsistency and errors in stories.
+
 
 
 ### 2. The "connection" prompts create inconsistency between the connected sessions 
