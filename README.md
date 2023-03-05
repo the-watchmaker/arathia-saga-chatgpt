@@ -39,7 +39,7 @@ To create forshadowing and several events hapenning in parallel require ChatGPT 
 
 ### 2. The "connection" prompts create inconsistency between the connected sessions 
 
-The accuracy of the story decreases in a single session with the current version ChatGPT (Mar 2023.) So you need to re-feed the "connection" prompts into a new session. Currently the "connection" prompts" are creating inconsistency between sessions. So, you need to strategically place each sessions. Top-down structure is aa good example. You can create 3 separate sessions: Plots -> chapters -> Parts. 
+The accuracy of the story decreases in a single session with the current version ChatGPT (Mar 2023.) So you need to re-feed the "connection" prompts into a new session. Currently the "connection" prompts" are creating inconsistency between sessions. So, you need to strategically structure each sessions. Top->down structure is a good example. You can create 3 separate sessions: Plots -> chapters -> Parts. This way the details do not get polluted by bigger plots. 
 
 
 
