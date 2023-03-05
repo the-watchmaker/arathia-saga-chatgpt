@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/4682613/221371974-a81510ce-8b1a-4f1b-9b29-e2e8f6b19ce2.png" width="420" />
 
-Image generated with DALL-E 2 with prompt[^1]
+The delegates from the kingdoms attending the funeral of the late Arathian Emperor.  [^1]
+
 
 # The Arathia Saga - Five Kingdoms
 
@@ -49,4 +50,4 @@ The accuracy of the story decreases in a single session with the current version
 API might yield different result. So it's worth to give a shot. Creating an assisted UI can be an option. Maybe using Next.js to quickly create one?
 
 
-[^1]: Prompt for the image: "Five kingdoms fighting over the land of Arathia after the death of the emperor Dashka. Five kingdoms, five armies, five cultures, five landscapes.  The delegates from the kingdoms attending the funeral of the late Emperor. Set in industrial era, in Final Fantasy 5 art style. science fiction. I need a poster without any texts."
+[^1]: Image generated with DALL-E 2. Prompt for the image: "Five kingdoms fighting over the land of Arathia after the death of the emperor Dashka. Five kingdoms, five armies, five cultures, five landscapes.  The delegates from the kingdoms attending the funeral of the late Emperor. Set in industrial era, in Final Fantasy 5 art style. science fiction. I need a poster without any texts."
