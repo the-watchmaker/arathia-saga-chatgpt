@@ -6,14 +6,14 @@ Image generated with DALL-E 2 with prompt[^1]
 
 _written with ChatGPT_
 
-### How to navigate
+## How to navigate
 - Prompts are all in index.prompt file at the moment.
 - The generated settings are in `/settings` folder.
 - The generated contents are in `/story` folder. 
 
 
 
-### The Prompt Design
+## The Prompt Design
 The prompts are multi-step and grouped by layers.
 
 1. Data Structure Layer: Define how we are setting up references and information structure such as characters, plot, chapter and sections.
@@ -23,7 +23,7 @@ The prompts are multi-step and grouped by layers.
 Each layers are then oraganized into different ChatGPT sessions and connected using "connection" prompts. This is due to an issue where the accuracy deteriorate in a single session. For example, plots can affect tiny description of a chapter even though you are not supposed to reveal it at that time.
 
 
----
+
 
 ## Technical Challenges
 
