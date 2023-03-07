@@ -89,9 +89,9 @@ and followed by the code of historic event, plot, chapter or section.
 
 For example, for a specific plot that happened on Jan 3, 801, it should be displayed like such:
 
-[801-01-03][p_2] Example 1 Kingdom[k_1] invaded Example 2 Kingdom[k_2] (this is just an example, remember the format not the content)
+[p_2][801-01-03] Example 1 Kingdom[k_1] invaded Example 2 Kingdom[k_2] (this is just an example, remember the format not the content)
 
-Did you understand? Can you generate 10 random plots as an example and then remove it from the session?
+Did you understand? Can you generate 10 random plots in a chronicle order from year 750 to 1200 as an example and then remove it from the session?
 
 
 
