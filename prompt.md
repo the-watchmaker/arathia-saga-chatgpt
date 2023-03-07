@@ -23,6 +23,7 @@ And,
 
 When I type something like "/[code name]" you will recite me back the information attached to that code.
 
+When I add markdown behind it like "/[code name] markdown" you will recite me back the information attached to that code, but this time in markdown format.
 
 We are not going to generate the story right away, let me set up the settings and characters first. Do you understand?
 
